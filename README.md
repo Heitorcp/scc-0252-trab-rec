@@ -1,5 +1,7 @@
 # SCC-0252 Trabalho de Vizualição Computacional
 
+A visualização pode ser acessada clicando [aqui](https://heitorcp-scc-0252-trab-viz-app-q2pnex.streamlit.app/)
+
 Trabalho de visualização feito com o streamlit
 
 Para executar:
