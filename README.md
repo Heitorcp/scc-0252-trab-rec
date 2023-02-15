@@ -2,6 +2,8 @@
 
 A visualização pode ser acessada clicando [aqui](https://heitorcp-scc-0252-trab-viz-app-q2pnex.streamlit.app/)
 
+![](https://github.com/Heitorcp/scc-0252-trab-viz/blob/master/viz-streamlit.gif)
+
 Trabalho de visualização feito com o streamlit
 
 Para executar:
