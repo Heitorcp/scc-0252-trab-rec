@@ -30,7 +30,6 @@ st.sidebar.info(
     **Visualização Computacional** - SCC0252 - Trabalho de Recuperação 
 
     **Autor**: Heitor Carvalho Pinheiro\n
-    **NUSP**: 11833351\n
     **Docente**: Maria Cristina Ferreira de Oliveira
 
     """
