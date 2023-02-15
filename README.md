@@ -1,4 +1,4 @@
-# SCC-0252 Trabalho de Recuperação
+# SCC-0252 Trabalho de Vizualição Computacional
 
 Trabalho de visualização feito com o streamlit
 
