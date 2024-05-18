@@ -27,7 +27,7 @@ st.sidebar.title("Sobre")
 st.sidebar.info(
     """
 
-    **Visualização Computacional** - SCC0252 - Trabalho de Recuperação 
+    **Visualização Computacional** - SCC0252 
 
     **Autor**: Heitor Carvalho Pinheiro\n
     **Docente**: Maria Cristina Ferreira de Oliveira
